@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styleSheet1.css">
+  </head>
+ 
+<div class="parContent">
+<h3 class="title">My favorit manga</h3>
+
+<p class="parParContent">My favorite Manga is One Punch man by One. One punch man sits at the top as my favorite manga for three reasons the characters, the art and the plot.
+The Characters are interesting and the weird traits they possess means they find themselves in hilarious situations while still retaining a sense of seriousness to the character. 
+The weird situations the characters get into serve as a means to drive the plot forward in an interesting way.
+The well thought out character driven plot coalesce with the accurate drawings representing the situation perfectly. 
+It is by far my favorite manga for those reasons. </p>
+</div>
+
+</body>
+</html>
